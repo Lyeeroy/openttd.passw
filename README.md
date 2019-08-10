@@ -1,5 +1,8 @@
 Short scr.
 
+ESC -> Exit
+F4 -> Reset company number ($i)
+
 - open console in openttd
 - open script
 
