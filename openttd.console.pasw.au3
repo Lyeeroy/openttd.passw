@@ -1,6 +1,5 @@
 Opt("SendKeyDelay", 5)
 HotKeySet('{ESC}', '_ex')
-HotKeySet('{F1}', '_que')
 HotKeySet('{F4}', '_input') ;RESTART
 
 ;====================================================
